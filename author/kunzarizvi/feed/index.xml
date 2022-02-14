@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Kunza Rizvi &#8211; Nomisma digital</title>
+	<title>Kunza Rizvi, Author at Nomisma digital</title>
 	<atom:link href="/author/kunzarizvi/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>World&#039;s best marketplace for complex financial services</description>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 	<item>
 		<title>Why we are closing our doors for pre-revenue Startups &#8211; Faisal Khan</title>
 		<link>/2021/04/20/why-we-are-closing-our-doors-for-pre-revenue-startups-faisal-khan/</link>
