@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Faisal Khan &#8211; Nomisma digital</title>
+	<title>Faisal Khan, Author at Nomisma digital</title>
 	<atom:link href="/author/nomismad/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>World&#039;s best marketplace for complex financial services</description>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 	<item>
 		<title>Post with Images</title>
 		<link>/2021/06/23/post-with-images/</link>
@@ -38,7 +38,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2021/06/coding.jpeg" alt="" class="wp-image-12" width="640" height="427" srcset="/wp-content/uploads/2021/06/coding.jpeg 640w, /wp-content/uploads/2021/06/coding-300x200.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<figure class="wp-block-image size-large is-resized"><img src="/wp-content/uploads/2021/06/coding.jpeg" alt="" class="wp-image-12" width="640" height="427" srcset="/wp-content/uploads/2021/06/coding.jpeg 640w, /wp-content/uploads/2021/06/coding-300x200.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
 
 
 
