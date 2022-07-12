@@ -10,7 +10,7 @@
 <channel>
 	<title>Uncategorized Archives - Nomisma digital</title>
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link></link>
 	<description>World&#039;s best marketplace for complex financial services</description>
 	<lastBuildDate>Thu, 18 Nov 2021 09:17:57 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
 		<title>Sample Post</title>
 		<link>/2021/11/17/sample-post/</link>
